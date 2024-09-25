@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Old D-pad Texture",
+    "description": "Born on 20240919\nMade by mcpedl.com/user/faizul726",
+    "uuid": "f3c6479a-3f74-004a-d59e-29f68b521628",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f829825c-d633-5a2a-4ee0-f0e87a2365ee",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
